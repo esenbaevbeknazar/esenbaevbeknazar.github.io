@@ -31,4 +31,4 @@
 
 [урок 15.1](https://esenbaevbeknazar.github.io/lesson15.1/)
 
-[урок 15.1](https://esenbaevbeknazar.github.io/lesson 14.2/)
+[урок 14.2](https://esenbaevbeknazar.github.io/lesson 14.2/)
