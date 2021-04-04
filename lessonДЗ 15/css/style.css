@@ -22,6 +22,10 @@ h2 {
 .image-one {
 	background: url(../img/1.jpg) center no-repeat;
 	background-size: cover;
+
+}
+.image-one:hover{
+	background-color: rgba(78, 6, 59, .5)
 }
 .image-two {
 	background: url(../img/2.jpg) center no-repeat;
