@@ -30,3 +30,5 @@
 [урок 15](https://esenbaevbeknazar.github.io/lesson15/)
 
 [урок 15.1](https://esenbaevbeknazar.github.io/lesson15.1/)
+
+[урок 15.1](https://esenbaevbeknazar.github.io/АРХИВ С ДЗ (14 УРОК)/)
