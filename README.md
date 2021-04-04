@@ -3,6 +3,7 @@
 # Эсенбаев Бекназар
 
 мои домашки
+
 [урок 1.1](https://esenbaevbeknazar.github.io/lesson1.1/)
 
 [урок 1](https://esenbaevbeknazar.github.io/lesson1/)
@@ -31,4 +32,4 @@
 
 [урок 15.1](https://esenbaevbeknazar.github.io/lesson15.1/)
 
-[урок 15.1](https://esenbaevbeknazar.github.io/АРХИВ С ДЗ (14 УРОК)/)
+[урок 14.2](https://esenbaevbeknazar.github.io/lesson 14.2/)
