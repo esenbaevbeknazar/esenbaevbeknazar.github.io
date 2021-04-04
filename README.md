@@ -13,7 +13,7 @@
 
 [урок 5](https://esenbaevbeknazar.github.io/lesson5/)
 
-[урок 11](https://esenbaevbeknazar.github.io/lesson11snipped/)
+[урок 11](https://esenbaevbeknazar.github.io/lesson11.snipped/)
 
 [урок 12](https://esenbaevbeknazar.github.io/lesson12/)
 
