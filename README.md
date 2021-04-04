@@ -15,7 +15,7 @@
 
 [урок 5](https://esenbaevbeknazar.github.io/lesson5/)
 
-[урок 3](https://esenbaevbeknazar.github.io/lesson9/)
+[урок 9](https://esenbaevbeknazar.github.io/lesson9/)
 
 [урок 11](https://esenbaevbeknazar.github.io/lesson11.sniped/)
 
