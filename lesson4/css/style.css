@@ -1,0 +1,16 @@
+div, h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+.text-2{
+    font-style: italic;
+}
+.text-3{
+    text-decoration:underline;
+}
+.text-4{
+    text-decoration: line-through;
+}
+.text-1{
+    font-weight: bold;
+}
