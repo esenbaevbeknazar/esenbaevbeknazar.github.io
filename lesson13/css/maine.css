@@ -1,0 +1,42 @@
+body {
+  background-color: #ebf4f4;
+}
+.form {
+  border: 1px solid black;
+  width: 320px;
+  height: 370px;
+  padding: 10px;
+  background-color: #fff;
+  position: relative;
+  margin: auto;
+  margin-top: 15%;
+}
+.form-header {
+  margin-top: -20px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+button {
+  display: block;
+  background-color: #01b3b3;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #fff;
+}
+.form-site {
+  margin: 30px;
+}
+#user-email,
+#Confirm-password,
+#user-password {
+  height: 30px;
+  width: 100%;
+  margin: 10px auto;
+}
+.btn {
+  margin-top: 30px;
+}
+.creat {
+  height: 25px;
+  outline: none;
+}

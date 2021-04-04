@@ -1,0 +1,38 @@
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	transition: all 0.2s;
+	&:hover{
+		background-color: black;
+	}
+}
+.sylka{
+	transition: all 0.2s;
+	text-decoration: none;
+
+	&:hover{
+		text-decoration: underline;
+	}
+	&:active{
+		color: green;
+	}
+	&:visited{
+		color: yellow;
+	}
+}
+input:focus{
+	outline: none;
+	border: 1px solid green;
+}
+
+
+.sylka1{
+	display: inline-block;
+	text-decoration: none;
+}
+.sylka1::before{
+	content: '162522';
+	display: block;
+	width: 100%;
+}
