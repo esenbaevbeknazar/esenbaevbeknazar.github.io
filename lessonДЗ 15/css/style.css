@@ -18,18 +18,32 @@ h2 {
 	vertical-align: top;
 	width: 200px;
 	height: 200px;
+	
 }
 .image-one {
 	background: url(../img/1.jpg) center no-repeat;
 	background-size: cover;
+}
+/*.image-one:hover {
+	opacity: 0.5;
+-moz-opacity:0.8;
+filter: alpha(opacity=30) black;
+-khtml-opacity: 0.8;
+background-color:rgb(0,0,0, 0.9);
 
-}
+}*/
 .image-one:hover{
-	background-color: rgba(78, 6, 59, .5)
+	-webkit-filter: brightness(20%);
+  filter: brightness(20%);
 }
+
 .image-two {
 	background: url(../img/2.jpg) center no-repeat;
 	background-size: cover;
+}
+.image-two:hover, .image-three:hover, .image-four:hover{
+	-webkit-filter: brightness(20%);
+  filter: brightness(20%);
 }
 .image-three {
 	background: url(../img/3.jpg) center no-repeat;
@@ -51,6 +65,10 @@ h2 {
  box-shadow: 0 -3px rgb(53,167,110) inset;
  transition: 0.2s;
 }
+.button-one:hover{
+	background: rgb(46 97 70);
+	box-shadow: 0 -3px rgb(46 97 70) inset;
+}
 .button-two {
 	display: inline-block;
  color: white;
@@ -61,5 +79,9 @@ h2 {
  border-color: #FDBE33 #000 #D77206;
  border-radius: 6px;
  background: linear-gradient(#F3AE0F, #E38916) #E38916;
- transition: 0.2s;
+ /*transition: 0.2s;*/
+}
+.button-two:hover{
+	    background: linear-gradient(#6b592f, #e48d1d) #ec8a0c;
+	    border-color: #6b592f #000 #ec8a0c;
 }
