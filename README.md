@@ -36,4 +36,4 @@
 
 [ДЗ 15](https://esenbaevbeknazar.github.io/lessonДЗ 15/)
 
-[практика3](esenbaevbeknazar.github.io/practic3/)
+[практика3](https://esenbaevbeknazar.github.io/practic3/)
