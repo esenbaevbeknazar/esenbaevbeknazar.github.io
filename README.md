@@ -40,4 +40,4 @@
 
 [урок 16](https://esenbaevbeknazar.github.io/lesson16/)
 
-[практика4](https://)
+[практика4](https://esenbaevbeknazar.github.io/practic4/)
