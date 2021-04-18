@@ -37,3 +37,7 @@
 [ДЗ 15](https://esenbaevbeknazar.github.io/lessonДЗ 15/)
 
 [практика3](https://esenbaevbeknazar.github.io/practic3/)
+
+[урок 16](https://esenbaevbeknazar.github.io/lesson16/)
+
+[практика4](https://)
