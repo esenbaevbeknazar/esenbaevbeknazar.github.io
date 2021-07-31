@@ -42,4 +42,4 @@
 
 [практика4](https://esenbaevbeknazar.github.io/practic4/)
 
-.[практика4](https://esenbaevbeknazar.github.io/practic6/)
+.[практика6](https://esenbaevbeknazar.github.io/practic6/)
