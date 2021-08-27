@@ -41,3 +41,5 @@
 [урок 16](https://esenbaevbeknazar.github.io/lesson16/)
 
 [практика4](https://esenbaevbeknazar.github.io/practic4/)
+
+.[практика6](https://esenbaevbeknazar.github.io/practic6/)
