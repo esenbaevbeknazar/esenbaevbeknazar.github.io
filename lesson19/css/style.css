@@ -1,0 +1,22 @@
+@keyframes box{
+	from{
+		margin-left: 0;
+	}
+	10%{
+		margin-left: 20px;
+	}
+	to{
+		margin-left: 400px;
+	}
+}
+
+
+.box{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	animation-name: box;
+	animation-duration: 1s;
+	animation-timing-function: cubic-bezier(.18,1);
+	animation-iteration-count: ;
+}
